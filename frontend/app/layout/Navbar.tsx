@@ -177,7 +177,7 @@ export function Navbar() {
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group gap={5}>
-          <Image src="/images/ganymede_logo.png" height={32} width={32} alt="Ganymede logo" />
+          <Image src="/images/saku_logo.png" height={32} width={32} alt="Saku VODs logo" />
           <Group visibleFrom="md">{mainLinks}</Group>
         </Group>
         <Group gap={5} visibleFrom="md">

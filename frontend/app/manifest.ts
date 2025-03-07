@@ -2,8 +2,8 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Ganymede",
-    short_name: "Ganymede",
+    name: "Saku VODs",
+    short_name: "Saku VODs",
     description: "A platform to archive live streams and videos.",
     start_url: "/",
     display: "standalone",

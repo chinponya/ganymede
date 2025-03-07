@@ -104,12 +104,12 @@ func ConvertTwitchLiveChatToTDLChat(path string, outPath string, channelName str
 		Source:               "chat",
 		ContentOffsetSeconds: 0,
 		Commenter: Commenter{
-			DisplayName:  "Ganymede",
+			DisplayName:  "System",
 			ID:           "222777213",
 			IsModerator:  false,
 			IsSubscriber: false,
 			IsTurbo:      false,
-			Name:         "ganymede",
+			Name:         "system",
 		},
 		Message: Message{
 			Body:      "Initial chat message",
