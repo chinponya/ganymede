@@ -719,7 +719,7 @@
     "errorLoggingInNotification": "Error logging in",
     "registerSuccessNotification": "Registered successfully, please login",
     "errorRegisteringNotification": "Error registering",
-    "welcomeText": "Welcome to Ganymede",
+    "welcomeText": "Welcome to Saku VODs",
     "ssoButton": "Single Sign-On (SSO)",
     "localCredentialsLabel": "Or continue with local credentials",
     "usernameLabel": "Username",

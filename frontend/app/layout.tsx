@@ -14,7 +14,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import ForceLogin from './components/authentication/ForceLogin';
 
 export const metadata: Metadata = {
-  title: "Ganymede",
+  title: "Saku VODs",
   description: "A platform to archive live streams and videos.",
 };
 
